@@ -1,5 +1,5 @@
 body  {
-    background-color: Yellow;
+    background-color: #CCCC00;
       color: black
     }
 
@@ -19,7 +19,7 @@ body {
   margin: 0;
 }
 .header {
-    background-color: #99FFFF;
+    background-color: #87ceeb;
     padding: 20px;
     text-align: center;
 }
