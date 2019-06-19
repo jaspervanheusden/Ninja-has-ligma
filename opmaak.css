@@ -1,5 +1,5 @@
 body  {
-    background-color: #e5e500;
+    background-color: #3D2AE8;
       color: black
     }
 
@@ -19,13 +19,13 @@ body {
   margin: 0;
 }
 .header {
-    background-color: #87ceeb;
+    background-color: #E81738
     padding: 20px;
     text-align: center;
 }
 .topnav {
     overflow: hidden;
-    background-color: #003366;
+    background-color: #E81738
 }
 .topnav a {
     float: left;
